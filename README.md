@@ -4,7 +4,7 @@
 Here are some ideas to get you started:
 
 - 📕 Actually im studying at the Escuela Politecnica Nacional
-- 
+- 🗺️ I’m living in Quito - Ecuador
 - 🌱 I’m currently learning C++, python and how to develop software
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
